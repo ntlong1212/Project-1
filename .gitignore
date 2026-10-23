@@ -1,0 +1,17 @@
+# Code::Blocks temporary & build files
+bin/
+obj/
+*.layout
+*.depend
+
+# Compiled Object files
+*.o
+*.obj
+*.exe
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
